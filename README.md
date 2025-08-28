@@ -1,4 +1,4 @@
-# Kirthan99-
+# Kirthan99
 Hello world, this is my profile 
 <h1 align="center">Hi 👋, I'm Akula Sankeerthan</h1>
 <h3 align="center">A passionate developer from India</h3>
